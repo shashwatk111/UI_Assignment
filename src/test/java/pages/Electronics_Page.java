@@ -141,7 +141,7 @@ public class Electronics_Page extends TestBase {
         perform.waitTillElementIsVisible(10,first_product_with_5_star);
 
         perform.scrollToElement(first_product_with_5_star);
-        perform.sleep(5000);
+
         //Click on first product
         perform.clickOn(first_product_with_5_star);
 
