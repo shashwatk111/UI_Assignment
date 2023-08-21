@@ -34,15 +34,7 @@ public class Listeners extends TestBase implements ITestListener {
         String testName =  result.getMethod().getDescription();
         ExtentTest test = extentReport.createTest(testName);
         test.log(Status.PASS," Test Passed");
-        //String screenshotPath = takeScreenShot(testName);
-//        test.addScreenCaptureFromPath(screenshotPath);
-        //test.addScreenCaptureFromBase64String(screenshotPath);
-
         test.pass(MediaEntityBuilder.createScreenCaptureFromPath(takeScreenShot(testName)).build());
-
-//        logger.log(Status.PASS," Test passed");
-//        addScreesShot(result);
-//        logger.addScreenCaptureFromPath(takeScreenShot(testName,driver),testName);
     }
 
     @Override
@@ -50,9 +42,6 @@ public class Listeners extends TestBase implements ITestListener {
         String testName = result.getMethod().getDescription();
         ExtentTest test = extentReport.createTest(testName);
         test.log(Status.FAIL," Test failed");
-//        test.addScreenCaptureFromPath(takeScreenShot(testName));
-       /* String screenshotPath = takeScreenShot(testName);
-        test.addScreenCaptureFromBase64String(screenshotPath);*/
         test.fail(MediaEntityBuilder.createScreenCaptureFromPath(takeScreenShot(testName)).build());
     }
 
