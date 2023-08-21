@@ -1,0 +1,301 @@
+2023-08-18 14:40:38,713 INFO u.Log [main] Launched the browser
+2023-08-18 14:40:40,665 INFO u.Log [main] Opened Google home page
+2023-08-18 14:40:40,837 INFO u.Log [main] Entered keyword 'amazon' in the search bar
+2023-08-18 14:40:41,085 INFO u.Log [main] Google Search Results :: 
+2023-08-18 14:40:43,864 INFO u.Log [main] Clicked on link which takes to amazon login page
+2023-08-18 14:41:39,100 INFO u.Log [main] Successfully sign in into amazon.com
+2023-08-18 14:42:24,560 INFO u.Log [main] Clicked on All buttons on search & select Electronics
+2023-08-18 14:42:37,692 INFO u.Log [main] Searched dell computers
+2023-08-18 14:42:42,077 INFO u.Log [main] Applied the filter of range Rs 30000 to 50000
+2023-08-18 14:42:42,883 INFO u.Log [main] Product with 5 star rating on page 1 : Dell Vostro 3425 Laptop, Ryzen R5-5625U, 8GB DDR4, 512GB SSD, 14.0" (35.56Cms) FHD WVA AG 250 nits, Windows 11 + MSO'21, McAfee 15 Months, Carbon Black, 1.48Kgs
+2023-08-18 14:42:42,896 INFO u.Log [main] Product with 5 star rating on page 1 : Dell Inspiron 3525 Laptop,R5-5625U,8Gb Ddr4,512Gb Ssd,Radeon Graphics,15.6" (39.62Cms) Fhd Wva Ag,120Hz 250 Nits,Win 11+ Mso'21,Carbon Black (D560863Win9B,1.68Kgs),AMD
+2023-08-18 14:42:43,155 INFO p.Electronics_Page [main] Navigated to 2nd Page
+2023-08-18 14:42:45,500 INFO u.Log [main] Product with 5 star rating on page 2 : (Renewed) Dell Intel 6th Gen Core i5 17 inch(43.18 cms) 1398 x 780 Desktop (16GB RAM/2 TB HDD/128SSD /Windows 10 Pro/MS Office/Intel Integrated Graphics,Black) Optiplex 5040
+2023-08-18 14:42:45,501 INFO p.Electronics_Page [main] Validate products with 5 star rating..
+2023-08-18 14:42:50,931 INFO u.Log [main] Clicked on first product which has 5 star rating
+2023-08-18 14:43:17,120 INFO u.Log [main] Product added to wish list
+2023-08-18 14:43:18,064 INFO u.Log [main] Validated product is added to the wish list
+2023-08-18 15:46:37,146 INFO u.Log [main] Launched the browser
+2023-08-18 15:46:38,879 INFO u.Log [main] Opened Google home page
+2023-08-18 15:46:39,140 INFO u.Log [main] Entered keyword 'amazon' in the search bar
+2023-08-18 15:46:39,435 INFO u.Log [main] Google Search Results :: 
+2023-08-18 15:46:40,235 INFO u.Log [main] Clicked on link which takes to amazon login page
+2023-08-18 15:46:48,225 INFO u.Log [main] Successfully sign in into amazon.com
+2023-08-18 15:46:53,516 INFO u.Log [main] Clicked on All buttons on search & select Electronics
+2023-08-18 15:47:01,187 INFO u.Log [main] Searched dell computers
+2023-08-18 15:47:03,862 INFO u.Log [main] Applied the filter of range Rs 30000 to 50000
+2023-08-18 15:47:05,248 INFO u.Log [main] Product with 5 star rating on page 1 : Dell Vostro 3425 Laptop, Ryzen R5-5625U, 8GB DDR4, 512GB SSD, 14.0" (35.56Cms) FHD WVA AG 250 nits, Windows 11 + MSO'21, McAfee 15 Months, Carbon Black, 1.48Kgs
+2023-08-18 15:47:05,260 INFO u.Log [main] Product with 5 star rating on page 1 : Dell Inspiron 3525 Laptop,R5-5625U,8Gb Ddr4,512Gb Ssd,Radeon Graphics,15.6" (39.62Cms) Fhd Wva Ag,120Hz 250 Nits,Win 11+ Mso'21,Carbon Black (D560863Win9B,1.68Kgs),AMD
+2023-08-18 15:47:05,533 INFO p.Electronics_Page [main] Navigated to 2nd Page
+2023-08-18 15:47:07,617 INFO u.Log [main] Product with 5 star rating on page 2 : (Renewed) Dell Intel 6th Gen Core i5 17 inch(43.18 cms) 1398 x 780 Desktop (16GB RAM/2 TB HDD/128SSD /Windows 10 Pro/MS Office/Intel Integrated Graphics,Black) Optiplex 5040
+2023-08-18 15:47:07,617 INFO p.Electronics_Page [main] Validate products with 5 star rating..
+2023-08-18 23:36:35,779 INFO u.TestBase [main] Launched the browser
+2023-08-18 23:36:39,159 INFO u.Log [main] Opened Google home page
+2023-08-18 23:36:39,433 INFO p.Google_Home_Page [main] Entered keyword 'amazon' in the search bar
+2023-08-18 23:36:39,692 INFO p.Google_Home_Page [main] Google Search Results :: 
+2023-08-18 23:36:39,730 INFO p.Google_Home_Page [main] Amazon
+2023-08-18 23:36:39,751 INFO p.Google_Home_Page [main] amazon india
+2023-08-18 23:36:39,779 INFO p.Google_Home_Page [main] amazon prime
+2023-08-18 23:36:39,811 INFO p.Google_Home_Page [main] amazon prime video
+2023-08-18 23:36:39,850 INFO p.Google_Home_Page [main] amazon mini tv
+2023-08-18 23:36:39,892 INFO p.Google_Home_Page [main] amazon customer care number
+2023-08-18 23:36:39,941 INFO p.Google_Home_Page [main] amazon customer care number pune
+2023-08-18 23:36:39,971 INFO p.Google_Home_Page [main] amazon customer care number nanded
+2023-08-18 23:36:40,001 INFO p.Google_Home_Page [main] amazon jobs
+2023-08-18 23:36:40,031 INFO p.Google_Home_Page [main] amazon customer care
+2023-08-18 23:36:42,859 INFO p.Google_Home_Page [main] Clicked on link which takes to amazon login page
+2023-08-18 23:36:48,573 INFO p.Login_Page [main] Successfully sign in into amazon.com
+2023-08-18 23:36:53,890 INFO p.Amazon_Home_Page [main] Clicked on All buttons on search & select Electronics
+2023-08-18 23:37:00,824 INFO p.Electronics_Page [main] Searched dell computers
+2023-08-18 23:37:03,821 INFO p.Electronics_Page [main] Applied the filter of range Rs 30000 to 50000
+2023-08-18 23:37:04,943 INFO p.Electronics_Page [main] Product with 5 star rating on page 1 : Dell Vostro 3425 Laptop, Ryzen R5-5625U, 8GB DDR4, 512GB SSD, 14.0" (35.56Cms) FHD WVA AG 250 nits, Windows 11 + MSO'21, McAfee 15 Months, Carbon Black, 1.48Kgs
+2023-08-18 23:37:04,958 INFO p.Electronics_Page [main] Product with 5 star rating on page 1 : Dell Inspiron 3525 Laptop,R5-5625U,8Gb Ddr4,512Gb Ssd,Radeon Graphics,15.6" (39.62Cms) Fhd Wva Ag,120Hz 250 Nits,Win 11+ Mso'21,Carbon Black (D560863Win9B,1.68Kgs),AMD
+2023-08-18 23:37:05,244 INFO p.Electronics_Page [main] Navigate to Page 2
+2023-08-18 23:37:07,124 INFO p.Electronics_Page [main] Product with 5 star rating on page 2 : Dell Inspiron 3520 Laptop,11th Gen Intel Core i3-1115G4, Windows 11 + MSO'21, McAfee 15 Months, 8GB, 512GB SSD, 15.6" (39.62Cms) 3 Sided Narrow Border Design with 120Hz FHD Display, Black, 1.65Kgs
+2023-08-18 23:37:07,137 INFO p.Electronics_Page [main] Product with 5 star rating on page 2 : (Renewed) Dell Intel 6th Gen Core i5 17 inch(43.18 cms) 1398 x 780 Desktop (16GB RAM/2 TB HDD/128SSD /Windows 10 Pro/MS Office/Intel Integrated Graphics,Black) Optiplex 5040
+2023-08-18 23:37:07,137 INFO p.Electronics_Page [main] Validate products with 5 star rating..
+2023-08-18 23:37:07,183 INFO p.Electronics_Page [main] Navigate back to Page 1
+2023-08-18 23:51:38,684 INFO u.TestBase [main] Launched the browser
+2023-08-18 23:51:40,411 INFO u.Log [main] Opened Google home page
+2023-08-18 23:51:40,654 INFO p.Google_Home_Page [main] Entered keyword 'amazon' in the search bar
+2023-08-18 23:51:40,928 INFO p.Google_Home_Page [main] Google Search Results :: 
+2023-08-18 23:51:40,960 INFO p.Google_Home_Page [main] Amazon
+2023-08-18 23:51:40,986 INFO p.Google_Home_Page [main] amazon india
+2023-08-18 23:51:41,017 INFO p.Google_Home_Page [main] amazon prime
+2023-08-18 23:51:41,035 INFO p.Google_Home_Page [main] amazon prime video
+2023-08-18 23:51:41,053 INFO p.Google_Home_Page [main] amazon mini tv
+2023-08-18 23:51:41,070 INFO p.Google_Home_Page [main] amazon customer care number
+2023-08-18 23:51:41,088 INFO p.Google_Home_Page [main] amazon customer care number pune
+2023-08-18 23:51:41,109 INFO p.Google_Home_Page [main] amazon customer care number nanded
+2023-08-18 23:51:41,139 INFO p.Google_Home_Page [main] amazon jobs
+2023-08-18 23:51:41,200 INFO p.Google_Home_Page [main] amazon customer care
+2023-08-18 23:51:43,747 INFO p.Google_Home_Page [main] Clicked on link which takes to amazon login page
+2023-08-18 23:51:49,197 INFO p.Login_Page [main] Successfully sign in into amazon.com
+2023-08-18 23:51:54,503 INFO p.Amazon_Home_Page [main] Clicked on All buttons on search & select Electronics
+2023-08-18 23:52:01,355 INFO p.Electronics_Page [main] Searched dell computers
+2023-08-18 23:52:03,982 INFO p.Electronics_Page [main] Applied the filter of range Rs 30000 to 50000
+2023-08-18 23:52:05,064 INFO p.Electronics_Page [main] Product with 5 star rating on page 1 : Dell Vostro 3425 Laptop, Ryzen R5-5625U, 8GB DDR4, 512GB SSD, 14.0" (35.56Cms) FHD WVA AG 250 nits, Windows 11 + MSO'21, McAfee 15 Months, Carbon Black, 1.48Kgs
+2023-08-18 23:52:05,092 INFO p.Electronics_Page [main] Product with 5 star rating on page 1 : Dell Inspiron 3525 Laptop,R5-5625U,8Gb Ddr4,512Gb Ssd,Radeon Graphics,15.6" (39.62Cms) Fhd Wva Ag,120Hz 250 Nits,Win 11+ Mso'21,Carbon Black (D560863Win9B,1.68Kgs),AMD
+2023-08-18 23:52:05,337 INFO p.Electronics_Page [main] Navigate to Page 2
+2023-08-18 23:52:07,389 INFO p.Electronics_Page [main] Product with 5 star rating on page 2 : Dell Inspiron 3520 Laptop,11th Gen Intel Core i3-1115G4, Windows 11 + MSO'21, McAfee 15 Months, 8GB, 512GB SSD, 15.6" (39.62Cms) 3 Sided Narrow Border Design with 120Hz FHD Display, Black, 1.65Kgs
+2023-08-18 23:52:07,420 INFO p.Electronics_Page [main] Product with 5 star rating on page 2 : (Renewed) Dell Intel 6th Gen Core i5 17 inch(43.18 cms) 1398 x 780 Desktop (16GB RAM/2 TB HDD/128SSD /Windows 10 Pro/MS Office/Intel Integrated Graphics,Black) Optiplex 5040
+2023-08-18 23:52:07,420 INFO p.Electronics_Page [main] Validate products with 5 star rating
+2023-08-18 23:52:07,504 INFO p.Electronics_Page [main] Navigate back to Page 1
+2023-08-18 23:52:09,044 INFO p.Electronics_Page [main] Clicked on first product which has 5 star rating
+2023-08-18 23:52:15,259 INFO p.Electronics_Page [main] Product added to wish list
+2023-08-18 23:52:16,172 INFO p.Wish_List_Page [main] Validated product is added to the wish list
+2023-08-19 10:41:15,245 INFO u.TestBase [main] Launch the browser
+2023-08-19 10:41:17,238 INFO u.TestBase [main] Open Google home page
+2023-08-19 10:41:17,310 INFO u.Listeners [main] Test Started !!
+2023-08-19 10:41:17,615 INFO p.Google_Home_Page [main] Enter keyword 'amazon' in the search bar
+2023-08-19 10:41:17,855 INFO p.Google_Home_Page [main] Google Search Results :: 
+2023-08-19 10:41:17,885 INFO p.Google_Home_Page [main] Amazon
+2023-08-19 10:41:17,911 INFO p.Google_Home_Page [main] amazon india
+2023-08-19 10:41:17,952 INFO p.Google_Home_Page [main] amazon prime
+2023-08-19 10:41:17,968 INFO p.Google_Home_Page [main] amazon prime video
+2023-08-19 10:41:17,984 INFO p.Google_Home_Page [main] amazon mini tv
+2023-08-19 10:41:18,003 INFO p.Google_Home_Page [main] amazon customer care number
+2023-08-19 10:41:18,024 INFO p.Google_Home_Page [main] amazon customer care number pune
+2023-08-19 10:41:18,047 INFO p.Google_Home_Page [main] amazon customer care number nanded
+2023-08-19 10:41:18,067 INFO p.Google_Home_Page [main] amazon jobs
+2023-08-19 10:41:18,086 INFO p.Google_Home_Page [main] amazon customer care
+2023-08-19 10:41:19,417 INFO p.Google_Home_Page [main] Click on link which takes to amazon login page
+2023-08-19 10:41:22,271 INFO p.Amazon_Home_Page [main] Open Amazon home page
+2023-08-19 10:41:25,254 INFO p.Login_Page [main] Successfully sign in into amazon.com
+2023-08-19 10:41:30,431 INFO p.Amazon_Home_Page [main] Click on All buttons on search & select Electronics
+2023-08-19 10:41:37,631 INFO p.Electronics_Page [main] Search dell computers
+2023-08-19 10:41:41,301 INFO p.Electronics_Page [main] Apply the filter of range Rs 30000 to 50000
+2023-08-19 10:41:42,517 INFO p.Electronics_Page [main] Product with 5 star rating on page 1 : Dell Vostro 3425 Laptop, Ryzen R5-5625U, 8GB DDR4, 512GB SSD, 14.0" (35.56Cms) FHD WVA AG 250 nits, Windows 11 + MSO'21, McAfee 15 Months, Carbon Black, 1.48Kgs
+2023-08-19 10:41:42,525 INFO p.Electronics_Page [main] Product with 5 star rating on page 1 : Lenovo IdeaCentre AIO 3 12th Gen Intel i3 23.8" FHD WVA 3-Side Edgeless All-in-One Desktop with Alexa Built-in (8GB/512GB SSD/Win11/MS Office 2021/HD 720p Camera/Wireless Keyboard & Mouse) F0GH00MJIN
+2023-08-19 10:41:42,533 INFO p.Electronics_Page [main] Product with 5 star rating on page 1 : Lenovo IdeaCentre AIO 3 11th Gen Intel i3 23.8" FHD IPS 3-Side Edgeless All-in-One Desktop with Alexa Built-in (8GB/512 GB SSD/Win11/MS Office 2021/HD 720p Camera/USB Keyboard & Mouse) F0G001E6IN
+2023-08-19 10:41:42,543 INFO p.Electronics_Page [main] Product with 5 star rating on page 1 : Dell Inspiron 3525 Laptop,R5-5625U,8Gb Ddr4,512Gb Ssd,Radeon Graphics,15.6" (39.62Cms) Fhd Wva Ag,120Hz 250 Nits,Win 11+ Mso'21,Carbon Black (D560863Win9B,1.68Kgs),AMD
+2023-08-19 10:41:42,810 INFO p.Electronics_Page [main] Navigate to Page 2
+2023-08-19 10:41:45,286 INFO p.Electronics_Page [main] Product with 5 star rating on page 2 : Dell Inspiron 3520 Laptop,11th Gen Intel Core i3-1115G4, Windows 11 + MSO'21, McAfee 15 Months, 8GB, 512GB SSD, 15.6" (39.62Cms) 3 Sided Narrow Border Design with 120Hz FHD Display, Black, 1.65Kgs
+2023-08-19 10:41:45,308 INFO p.Electronics_Page [main] Product with 5 star rating on page 2 : (Renewed) Dell Intel 6th Gen Core i5 17 inch(43.18 cms) 1398 x 780 Desktop (16GB RAM/2 TB HDD/128SSD /Windows 10 Pro/MS Office/Intel Integrated Graphics,Black) Optiplex 5040
+2023-08-19 10:41:45,308 INFO p.Electronics_Page [main] Validate products with 5 star rating
+2023-08-19 10:41:45,364 INFO p.Electronics_Page [main] Navigate back to Page 1
+2023-08-19 10:41:46,738 INFO p.Electronics_Page [main] Click on first product which has 5 star rating
+2023-08-19 10:41:53,029 INFO p.Electronics_Page [main] Product added to wish list
+2023-08-19 10:41:53,967 INFO p.Wish_List_Page [main] Validated product is added to the wish list
+2023-08-19 10:53:21,692 INFO u.TestBase [main] Launch the browser
+2023-08-19 10:53:24,501 INFO u.TestBase [main] Open Google home page
+2023-08-19 10:53:24,566 INFO u.Listeners [main] Test Started !!
+2023-08-19 10:53:24,855 INFO p.Google_Home_Page [main] Enter keyword 'amazon' in the search bar
+2023-08-19 10:53:25,055 INFO p.Google_Home_Page [main] Google Search Results :: 
+2023-08-19 10:53:25,085 INFO p.Google_Home_Page [main] Amazon
+2023-08-19 10:53:25,105 INFO p.Google_Home_Page [main] amazon india
+2023-08-19 10:53:25,125 INFO p.Google_Home_Page [main] amazon prime
+2023-08-19 10:53:25,147 INFO p.Google_Home_Page [main] amazon prime video
+2023-08-19 10:53:25,165 INFO p.Google_Home_Page [main] amazon mini tv
+2023-08-19 10:53:25,182 INFO p.Google_Home_Page [main] amazon customer care number
+2023-08-19 10:53:25,201 INFO p.Google_Home_Page [main] amazon customer care number pune
+2023-08-19 10:53:25,218 INFO p.Google_Home_Page [main] amazon customer care number nanded
+2023-08-19 10:53:25,235 INFO p.Google_Home_Page [main] amazon jobs
+2023-08-19 10:53:25,254 INFO p.Google_Home_Page [main] amazon customer care
+2023-08-19 10:53:25,511 INFO p.Google_Home_Page [main] Click on link which takes to amazon login page
+2023-08-19 10:53:29,804 INFO p.Amazon_Home_Page [main] Open Amazon home page
+2023-08-19 10:53:32,577 INFO p.Login_Page [main] Successfully sign in into amazon.com
+2023-08-19 10:53:37,864 INFO p.Amazon_Home_Page [main] Click on All buttons on search & select Electronics
+2023-08-19 10:53:43,595 INFO p.Electronics_Page [main] Search dell computers
+2023-08-19 10:53:45,959 INFO p.Electronics_Page [main] Apply the filter of range Rs 30000 to 50000
+2023-08-19 10:53:47,107 INFO p.Electronics_Page [main] Product with 5 star rating on page 1 : Dell Vostro 3425 Laptop, Ryzen R5-5625U, 8GB DDR4, 512GB SSD, 14.0" (35.56Cms) FHD WVA AG 250 nits, Windows 11 + MSO'21, McAfee 15 Months, Carbon Black, 1.48Kgs
+2023-08-19 10:53:47,117 INFO p.Electronics_Page [main] Product with 5 star rating on page 1 : Lenovo IdeaCentre AIO 3 12th Gen Intel i3 23.8" FHD WVA 3-Side Edgeless All-in-One Desktop with Alexa Built-in (8GB/512GB SSD/Win11/MS Office 2021/HD 720p Camera/Wireless Keyboard & Mouse) F0GH00MJIN
+2023-08-19 10:53:47,127 INFO p.Electronics_Page [main] Product with 5 star rating on page 1 : Lenovo IdeaCentre AIO 3 11th Gen Intel i3 23.8" FHD IPS 3-Side Edgeless All-in-One Desktop with Alexa Built-in (8GB/512 GB SSD/Win11/MS Office 2021/HD 720p Camera/USB Keyboard & Mouse) F0G001E6IN
+2023-08-19 10:53:47,135 INFO p.Electronics_Page [main] Product with 5 star rating on page 1 : Dell Inspiron 3525 Laptop,R5-5625U,8Gb Ddr4,512Gb Ssd,Radeon Graphics,15.6" (39.62Cms) Fhd Wva Ag,120Hz 250 Nits,Win 11+ Mso'21,Carbon Black (D560863Win9B,1.68Kgs),AMD
+2023-08-19 10:53:47,401 INFO p.Electronics_Page [main] Navigate to Page 2
+2023-08-19 10:53:49,423 INFO p.Electronics_Page [main] Product with 5 star rating on page 2 : Dell Inspiron 3520 Laptop,11th Gen Intel Core i3-1115G4, Windows 11 + MSO'21, McAfee 15 Months, 8GB, 512GB SSD, 15.6" (39.62Cms) 3 Sided Narrow Border Design with 120Hz FHD Display, Black, 1.65Kgs
+2023-08-19 10:53:49,452 INFO p.Electronics_Page [main] Product with 5 star rating on page 2 : (Renewed) Dell Intel 6th Gen Core i5 17 inch(43.18 cms) 1398 x 780 Desktop (16GB RAM/2 TB HDD/128SSD /Windows 10 Pro/MS Office/Intel Integrated Graphics,Black) Optiplex 5040
+2023-08-19 10:53:49,453 INFO p.Electronics_Page [main] Validate products with 5 star rating
+2023-08-19 10:53:49,501 INFO p.Electronics_Page [main] Navigate back to Page 1
+2023-08-19 10:53:51,000 INFO p.Electronics_Page [main] Click on first product which has 5 star rating
+2023-08-19 10:53:57,195 INFO p.Electronics_Page [main] Product added to wish list
+2023-08-19 10:53:58,304 INFO p.Wish_List_Page [main] Validated product is added to the wish list
+2023-08-19 13:28:40,445 INFO u.TestBase [main] Launch the browser
+2023-08-19 13:28:42,112 INFO u.TestBase [main] Open Google home page
+2023-08-19 13:28:42,190 INFO u.Listeners [main] Test Started !!
+2023-08-19 13:28:42,474 INFO p.Google_Home_Page [main] Enter keyword 'amazon' in the search bar
+2023-08-19 13:28:42,648 INFO p.Google_Home_Page [main] Google Search Results :: 
+2023-08-19 13:28:42,668 INFO p.Google_Home_Page [main] Amazon
+2023-08-19 13:28:42,715 INFO p.Google_Home_Page [main] amazon india
+2023-08-19 13:28:42,739 INFO p.Google_Home_Page [main] amazon prime
+2023-08-19 13:28:42,757 INFO p.Google_Home_Page [main] amazon prime video
+2023-08-19 13:28:42,773 INFO p.Google_Home_Page [main] amazon mini tv
+2023-08-19 13:28:42,793 INFO p.Google_Home_Page [main] amazon customer care number
+2023-08-19 13:28:42,828 INFO p.Google_Home_Page [main] amazon customer care number pune
+2023-08-19 13:28:42,846 INFO p.Google_Home_Page [main] amazon customer care number nanded
+2023-08-19 13:28:42,856 INFO p.Google_Home_Page [main] amazon jobs
+2023-08-19 13:28:42,872 INFO p.Google_Home_Page [main] amazon customer care
+2023-08-19 13:28:45,287 INFO p.Google_Home_Page [main] Click on link which takes to amazon login page
+2023-08-19 13:28:47,741 INFO p.Amazon_Home_Page [main] Open Amazon home page
+2023-08-19 13:28:49,901 INFO p.Login_Page [main] Successfully sign in into amazon.com
+2023-08-19 13:28:55,171 INFO p.Amazon_Home_Page [main] Click on All buttons on search & select Electronics
+2023-08-19 13:29:02,316 INFO p.Electronics_Page [main] Search dell computers
+2023-08-19 14:23:07,693 INFO u.TestBase [main] Launch the browser
+2023-08-19 14:23:09,715 INFO u.TestBase [main] Open Google home page
+2023-08-19 14:23:09,830 INFO u.Listeners [main] Test Started !!
+2023-08-19 14:23:10,522 INFO p.Google_Home_Page [main] Enter keyword 'amazon' in the search bar
+2023-08-19 14:23:10,959 INFO p.Google_Home_Page [main] Google Search Results :: 
+2023-08-19 14:23:11,000 INFO p.Google_Home_Page [main] Amazon
+2023-08-19 14:23:11,025 INFO p.Google_Home_Page [main] amazon india
+2023-08-19 14:23:11,048 INFO p.Google_Home_Page [main] amazon prime
+2023-08-19 14:23:11,076 INFO p.Google_Home_Page [main] amazon prime video
+2023-08-19 14:23:11,107 INFO p.Google_Home_Page [main] amazon mini tv
+2023-08-19 14:23:11,148 INFO p.Google_Home_Page [main] amazon customer care number
+2023-08-19 14:23:11,202 INFO p.Google_Home_Page [main] amazon customer care number pune
+2023-08-19 14:23:11,234 INFO p.Google_Home_Page [main] amazon customer care number nanded
+2023-08-19 14:23:11,256 INFO p.Google_Home_Page [main] amazon jobs
+2023-08-19 14:23:11,297 INFO p.Google_Home_Page [main] amazon customer care
+2023-08-19 14:23:13,914 INFO p.Google_Home_Page [main] Click on link which takes to amazon login page
+2023-08-19 14:23:15,992 INFO p.Amazon_Home_Page [main] Open Amazon home page
+2023-08-19 14:23:19,346 INFO p.Login_Page [main] Successfully sign in into amazon.com
+2023-08-19 14:23:24,622 INFO p.Amazon_Home_Page [main] Click on All buttons on search & select Electronics
+2023-08-19 14:23:31,374 INFO p.Electronics_Page [main] Search dell computers
+2023-08-19 14:23:34,028 INFO p.Electronics_Page [main] Apply the filter of range Rs 30000 to 50000
+2023-08-19 14:23:35,392 INFO p.Electronics_Page [main] Product with 5 star rating on page 1 : Dell Vostro 3425 Laptop, Ryzen R5-5625U, 8GB DDR4, 512GB SSD, 14.0" (35.56Cms) FHD WVA AG 250 nits, Windows 11 + MSO'21, McAfee 15 Months, Carbon Black, 1.48Kgs
+2023-08-19 14:23:35,416 INFO p.Electronics_Page [main] Product with 5 star rating on page 1 : Dell Inspiron 3525 Laptop,R5-5625U,8Gb Ddr4,512Gb Ssd,Radeon Graphics,15.6" (39.62Cms) Fhd Wva Ag,120Hz 250 Nits,Win 11+ Mso'21,Carbon Black (D560863Win9B,1.68Kgs),AMD
+2023-08-19 14:23:35,667 INFO p.Electronics_Page [main] Navigate to Page 2
+2023-08-19 14:23:38,348 INFO p.Electronics_Page [main] Product with 5 star rating on page 2 : (Renewed) Dell Intel 6th Gen Core i5 17 inch(43.18 cms) 1398 x 780 Desktop (16GB RAM/2 TB HDD/128SSD /Windows 10 Pro/MS Office/Intel Integrated Graphics,Black) Optiplex 5040
+2023-08-19 14:23:38,360 INFO p.Electronics_Page [main] Product with 5 star rating on page 2 : Dell (Renewed) Latitude Laptop E5470 Intel Core I5 6Th Gen.-6200U Processor,32 Gb Ram&512 Gb Ssd,14.1 Inches Hd Screen Notebook Computer,Windows 10 Pro
+2023-08-19 14:23:38,361 INFO p.Electronics_Page [main] Validate products with 5 star rating
+2023-08-19 14:23:38,414 INFO p.Electronics_Page [main] Navigate back to Page 1
+2023-08-19 14:23:40,131 INFO p.Electronics_Page [main] Click on first product which has 5 star rating
+2023-08-19 14:23:46,888 INFO p.Electronics_Page [main] Product added to wish list
+2023-08-19 14:23:47,888 INFO p.Wish_List_Page [main] Validated product is added to the wish list
+2023-08-19 17:53:58,676 INFO u.TestBase [main] Launch the browser
+2023-08-19 17:54:01,456 INFO u.TestBase [main] Open Google home page
+2023-08-19 17:54:01,577 INFO u.Listeners [main] Test Started !!
+2023-08-19 17:54:02,138 INFO p.Google_Home_Page [main] Enter keyword 'amazon' in the search bar
+2023-08-19 17:54:02,549 INFO p.Google_Home_Page [main] Google Search Results :: 
+2023-08-19 17:55:11,966 INFO u.TestBase [main] Launch the browser
+2023-08-19 17:55:14,132 INFO u.TestBase [main] Open Google home page
+2023-08-19 17:55:14,233 INFO u.Listeners [main] Test Started !!
+2023-08-19 19:53:38,745 INFO u.TestBase [main] Launch the browser
+2023-08-19 19:53:41,534 INFO u.TestBase [main] Open Google home page
+2023-08-19 19:54:39,411 INFO u.TestBase [main] Launch the browser
+2023-08-19 19:54:41,181 INFO u.TestBase [main] Open Google home page
+2023-08-19 19:55:13,367 INFO u.TestBase [main] Launch the browser
+2023-08-19 19:55:15,383 INFO u.TestBase [main] Open Google home page
+2023-08-19 19:55:15,444 INFO u.Listeners [main] Test Started !!
+2023-08-19 19:55:15,707 INFO p.Google_Home_Page [main] Enter keyword 'amazon' in the search bar
+2023-08-19 19:55:15,888 INFO p.Google_Home_Page [main] Google Search Results :: 
+2023-08-19 19:55:15,929 INFO p.Google_Home_Page [main] Amazon
+2023-08-19 19:55:15,949 INFO p.Google_Home_Page [main] amazon india
+2023-08-19 19:55:15,975 INFO p.Google_Home_Page [main] amazon prime
+2023-08-19 19:55:15,993 INFO p.Google_Home_Page [main] amazon prime video
+2023-08-19 19:55:16,022 INFO p.Google_Home_Page [main] amazon mini tv
+2023-08-19 19:55:16,039 INFO p.Google_Home_Page [main] amazon customer care number
+2023-08-19 19:55:16,056 INFO p.Google_Home_Page [main] amazon customer care number pune
+2023-08-19 19:55:16,072 INFO p.Google_Home_Page [main] amazon customer care number nanded
+2023-08-19 19:55:16,090 INFO p.Google_Home_Page [main] amazon jobs
+2023-08-19 19:55:16,109 INFO p.Google_Home_Page [main] amazon customer care
+2023-08-19 19:55:18,261 INFO p.Google_Home_Page [main] Click on link which takes to amazon login page
+2023-08-19 19:55:20,847 INFO p.Amazon_Home_Page [main] Open Amazon home page
+2023-08-19 19:55:23,119 INFO p.Login_Page [main] Successfully sign in into amazon.com
+2023-08-19 19:55:28,278 INFO p.Amazon_Home_Page [main] Click on All buttons on search & select Electronics
+2023-08-19 19:55:34,616 INFO p.Electronics_Page [main] Search dell computers
+2023-08-19 19:55:36,907 INFO p.Electronics_Page [main] Apply the filter of range Rs 30000 to 50000
+2023-08-19 19:55:37,886 INFO p.Electronics_Page [main] Product with 5 star rating on page 1 : Dell Vostro 3425 Laptop, Ryzen R5-5625U, 8GB DDR4, 512GB SSD, 14.0" (35.56Cms) FHD WVA AG 250 nits, Windows 11 + MSO'21, McAfee 15 Months, Carbon Black, 1.48Kgs
+2023-08-19 19:55:37,895 INFO p.Electronics_Page [main] Product with 5 star rating on page 1 : Dell Inspiron 3525 Laptop,R5-5625U,8Gb Ddr4,512Gb Ssd,Radeon Graphics,15.6" (39.62Cms) Fhd Wva Ag,120Hz 250 Nits,Win 11+ Mso'21,Carbon Black (D560863Win9B,1.68Kgs),AMD
+2023-08-19 19:55:38,142 INFO p.Electronics_Page [main] Navigate to Page 2
+2023-08-19 19:55:40,216 INFO p.Electronics_Page [main] Product with 5 star rating on page 2 : (Renewed) Dell Intel 6th Gen Core i5 17 inch(43.18 cms) 1398 x 780 Desktop (16GB RAM/2 TB HDD/128SSD /Windows 10 Pro/MS Office/Intel Integrated Graphics,Black) Optiplex 5040
+2023-08-19 19:55:40,250 INFO p.Electronics_Page [main] Product with 5 star rating on page 2 : Dell (Renewed) Latitude Laptop E5470 Intel Core I5 6Th Gen.-6200U Processor,32 Gb Ram&512 Gb Ssd,14.1 Inches Hd Screen Notebook Computer,Windows 10 Pro
+2023-08-19 19:55:40,250 INFO p.Electronics_Page [main] Validate products with 5 star rating
+2023-08-19 19:55:40,318 INFO p.Electronics_Page [main] Navigate back to Page 1
+2023-08-19 19:55:41,707 INFO p.Electronics_Page [main] Click on first product which has 5 star rating
+2023-08-19 19:55:48,387 INFO p.Electronics_Page [main] Product added to wish list
+2023-08-19 19:55:49,619 INFO p.Wish_List_Page [main] Validated product is added to the wish list
+2023-08-21 10:13:53,932 INFO u.TestBase [main] Launch the browser
+2023-08-21 10:13:55,859 INFO u.TestBase [main] Open Google home page
+2023-08-21 10:13:55,991 INFO u.Listeners [main] Test Started !!
+2023-08-21 10:13:56,714 INFO p.Google_Home_Page [main] Enter keyword 'amazon' in the search bar
+2023-08-21 10:13:56,887 INFO p.Google_Home_Page [main] Google Search Results :: 
+2023-08-21 10:13:56,936 INFO p.Google_Home_Page [main] Amazon
+2023-08-21 10:13:56,962 INFO p.Google_Home_Page [main] amazon india
+2023-08-21 10:13:56,985 INFO p.Google_Home_Page [main] amazon prime
+2023-08-21 10:13:57,008 INFO p.Google_Home_Page [main] amazon prime video
+2023-08-21 10:13:57,031 INFO p.Google_Home_Page [main] amazon mini tv
+2023-08-21 10:13:57,051 INFO p.Google_Home_Page [main] amazon customer care number
+2023-08-21 10:13:57,073 INFO p.Google_Home_Page [main] amazon customer care number pune
+2023-08-21 10:13:57,103 INFO p.Google_Home_Page [main] amazon customer care
+2023-08-21 10:13:57,129 INFO p.Google_Home_Page [main] amazon outlet
+2023-08-21 10:13:57,149 INFO p.Google_Home_Page [main] amazon jobs
+2023-08-21 10:14:00,441 INFO p.Google_Home_Page [main] Click on link which takes to amazon login page
+2023-08-21 10:14:02,904 INFO p.Amazon_Home_Page [main] Open Amazon home page
+2023-08-21 10:14:05,345 INFO p.Login_Page [main] Successfully sign in into amazon.com
+2023-08-21 10:14:10,645 INFO p.Amazon_Home_Page [main] Click on All buttons on search & select Electronics
+2023-08-21 10:14:16,761 INFO p.Electronics_Page [main] Search dell computers
+2023-08-21 10:14:19,213 INFO p.Electronics_Page [main] Apply the filter of range Rs 30000 to 50000
+2023-08-21 10:14:20,739 INFO p.Electronics_Page [main] Product with 5 star rating on page 1 : Dell Vostro 3425 Laptop, Ryzen R5-5625U, 8GB DDR4, 512GB SSD, 14.0" (35.56Cms) FHD WVA AG 250 nits, Windows 11 + MSO'21, McAfee 15 Months, Carbon Black, 1.48Kgs
+2023-08-21 10:14:21,021 INFO p.Electronics_Page [main] Navigate to Page 2
+2023-08-21 10:14:22,110 INFO p.Electronics_Page [main] Product with 5 star rating on page 2 : Lenovo IdeaCentre AIO 3 12th Gen Intel i3 23.8" FHD WVA 3-Side Edgeless All-in-One Desktop with Alexa Built-in (8GB/512GB SSD/Win11/MS Office 2021/HD 720p Camera/Wireless Keyboard & Mouse) F0GH00MJIN
+2023-08-21 10:14:22,111 INFO p.Electronics_Page [main] Validate products with 5 star rating
+2023-08-21 10:14:22,181 INFO p.Electronics_Page [main] Navigate back to Page 1
+2023-08-21 10:15:52,164 INFO u.TestBase [main] Launch the browser
+2023-08-21 10:15:54,631 INFO u.TestBase [main] Open Google home page
+2023-08-21 10:15:54,755 INFO u.Listeners [main] Test Started !!
+2023-08-21 10:15:55,394 INFO p.Google_Home_Page [main] Enter keyword 'amazon' in the search bar
+2023-08-21 10:15:55,575 INFO p.Google_Home_Page [main] Google Search Results :: 
+2023-08-21 10:15:55,618 INFO p.Google_Home_Page [main] Amazon
+2023-08-21 10:15:55,639 INFO p.Google_Home_Page [main] amazon india
+2023-08-21 10:15:55,659 INFO p.Google_Home_Page [main] amazon prime
+2023-08-21 10:15:55,681 INFO p.Google_Home_Page [main] amazon prime video
+2023-08-21 10:15:55,700 INFO p.Google_Home_Page [main] amazon mini tv
+2023-08-21 10:15:55,735 INFO p.Google_Home_Page [main] amazon customer care number
+2023-08-21 10:15:55,772 INFO p.Google_Home_Page [main] amazon customer care number pune
+2023-08-21 10:15:55,812 INFO p.Google_Home_Page [main] amazon customer care
+2023-08-21 10:15:55,853 INFO p.Google_Home_Page [main] amazon outlet
+2023-08-21 10:15:55,893 INFO p.Google_Home_Page [main] amazon jobs
+2023-08-21 10:15:58,625 INFO p.Google_Home_Page [main] Click on link which takes to amazon login page
+2023-08-21 10:16:01,000 INFO p.Amazon_Home_Page [main] Open Amazon home page
+2023-08-21 10:16:04,040 INFO p.Login_Page [main] Successfully sign in into amazon.com
+2023-08-21 10:16:09,437 INFO p.Amazon_Home_Page [main] Click on All buttons on search & select Electronics
+2023-08-21 10:16:15,134 INFO p.Electronics_Page [main] Search dell computers
+2023-08-21 10:16:17,763 INFO p.Electronics_Page [main] Apply the filter of range Rs 30000 to 50000
+2023-08-21 10:16:19,275 INFO p.Electronics_Page [main] Product with 5 star rating on page 1 : Dell Vostro 3425 Laptop, Ryzen R5-5625U, 8GB DDR4, 512GB SSD, 14.0" (35.56Cms) FHD WVA AG 250 nits, Windows 11 + MSO'21, McAfee 15 Months, Carbon Black, 1.48Kgs
+2023-08-21 10:16:19,287 INFO p.Electronics_Page [main] Product with 5 star rating on page 1 : Lenovo IdeaCentre AIO 3 12th Gen Intel i3 23.8" FHD WVA 3-Side Edgeless All-in-One Desktop with Alexa Built-in (8GB/512GB SSD/Win11/MS Office 2021/HD 720p Camera/Wireless Keyboard & Mouse) F0GH00MJIN
+2023-08-21 10:16:19,300 INFO p.Electronics_Page [main] Product with 5 star rating on page 1 : Lenovo IdeaCentre AIO 3 11th Gen Intel i3 23.8" FHD IPS 3-Side Edgeless All-in-One Desktop with Alexa Built-in (8GB/512 GB SSD/Win11/MS Office 2021/HD 720p Camera/USB Keyboard & Mouse) F0G001E6IN
+2023-08-21 10:16:19,627 INFO p.Electronics_Page [main] Navigate to Page 2
+2023-08-21 10:16:21,378 INFO p.Electronics_Page [main] Product with 5 star rating on page 2 : Dell Inspiron 3525 Laptop,R5-5625U,8Gb Ddr4,512Gb Ssd,Radeon Graphics,15.6" (39.62Cms) Fhd Wva Ag,120Hz 250 Nits,Win 11+ Mso'21,Carbon Black (D560863Win9B,1.68Kgs),AMD
+2023-08-21 10:16:21,413 INFO p.Electronics_Page [main] Product with 5 star rating on page 2 : (Renewed) Dell Intel 6th Gen Core i5 17 inch(43.18 cms) 1398 x 780 Desktop (16GB RAM/2 TB HDD/128SSD /Windows 10 Pro/MS Office/Intel Integrated Graphics,Black) Optiplex 5040
+2023-08-21 10:16:21,414 INFO p.Electronics_Page [main] Validate products with 5 star rating
+2023-08-21 10:16:21,462 INFO p.Electronics_Page [main] Navigate back to Page 1

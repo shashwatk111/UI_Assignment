@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <listeners>
+        <listener class-name="utils.Listeners"/>
+    </listeners>
+    <test verbose="2" name="\UiAssignmentAmazon">
+        <classes>
+            <class name="testCases.Amazon_Test_Cases">
+                <methods>
+                    <include name="validate_product_is_added_to_the_wish_list"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>
